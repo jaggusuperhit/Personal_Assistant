@@ -172,3 +172,18 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Production .gitignore for Python/Flask/LLM projects
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+db/
+*.db
+myenv/
+
+# VSCode
+.vscode/
+
+# OS
+Thumbs.db

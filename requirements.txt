@@ -1,0 +1,10 @@
+flask==3.0.2
+langchain==0.2.0
+langchain-openai==0.1.7
+langchain-community==0.2.0
+huggingface-hub==0.23.0
+chromadb==0.4.24
+gdown==5.1.0
+python-dotenv==1.0.1
+pydantic==2.7.1
+waitress==3.0.0
